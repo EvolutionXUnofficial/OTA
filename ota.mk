@@ -9,7 +9,7 @@ PRODUCT_PACKAGES += \
 #
 
 # Below are the Bash Commands! Don't Uncomment these as this won't work on a makefile.
-# Just Use the Commangs Given Below in your Terminal " Without the '#' ":
+# Just Use the Commands Given Below in your Terminal (Without the '#'):
 
 # rm -rf vendor/evolution/config/ota.mk
 # curl https://raw.githubusercontent.com/EvolutionXUnofficial/OTA/master/ota.mk >> vendor/evolution/config/ota.mk
