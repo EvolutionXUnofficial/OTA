@@ -1,1 +1,30 @@
-Sample CL 
+NOTE: OrangeFox Recovery Required.
+NOTE: Taking a Backup before Updating is Recommended.
+
+Device Side Changes:
+==============================
+Fixed Screen Lock Issues
+Bring back Samsung memory management hacks
+Enabled dolby audio effect
+Tried to Increase Audio Output
+Added thermal HAL based on Google's Implementation for Pixel Phones (better overheating protection)(Swithed to Pixel Thermal HAL)
+Updated Common Blobs from A40 Android 11
+Many More...
+------------------------------
+ROM changes:
+==============================
+Upgrade to "5 September 2021" Security Patch
+Settings: Add support for global cleartext penalties
+SystemUI: Nuke Notifications/Power menu background opacity features
+Evolver: Nuke Notifications/Power menu background opacity feature
+Evolver: Update default FOD to A12 version
+FOD: Remove color filter from fod icons
+FOD: Use A12 fingerprint icon by default
+Settings: Add Hotspot client manager from exTHmUI
+Settings: Bring back 'Do not validate' option in CA certificate spinner
+Settings: Privacy chip toggle requires SystemUI restart
+Settings: Remove support for global cleartext penalties
+gms: Update Calculator and Clock from A12 Beta 5
+netd: add MAC address firewall
+netd: fix: the order of firewallSetMACAddressRule api
+Many More...
